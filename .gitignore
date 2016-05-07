@@ -3,8 +3,6 @@
 /public/storage
 Homestead.yaml
 Homestead.json
-.env
-
 
 *.seed
 *.log
@@ -28,12 +26,10 @@ Thumbs.db
 .idea/
 *.sublime-workspace
 *.sublime-project
-/nbproject/
 .tm_properties
 .buildpath
 .project
 .settings/
-koala-config.json
 .externalToolBuilders/
 .sass-cache
 composer.lock
